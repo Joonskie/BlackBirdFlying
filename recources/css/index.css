@@ -92,6 +92,7 @@ header{
 
     .flexbox-container{
         margin-bottom: 0;
+        flex-direction: column;
     }
 
     .flexbox-item{
@@ -121,7 +122,7 @@ header{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    flex-direction: column;
+    
 }
 
 .flexbox-container-1{
