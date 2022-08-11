@@ -1,0 +1,39 @@
+.btn_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn_margin{
+    margin-top: 30px;
+}
+
+.btn{
+    padding: 12px;
+    font-size: 16px; 
+    line-height: 25px;
+    border-radius: 4px;
+    background-color: rgba(128, 0, 128, 0.486);
+    color: black;
+    white-space: nowrap;
+    line-height: 300%;
+    margin-right: 10px;
+}
+/* .btn_middle{
+    margin-right: 10px;
+} */
+
+
+/* .btn_links{
+    margin-right: 5px;
+}*/
+
+.btn_rechts{
+    margin-right: 0px;
+} 
+
+
+.btn:hover{
+    background-color: rgba(128, 0, 128, 0.284);
+    cursor: pointer;
+}

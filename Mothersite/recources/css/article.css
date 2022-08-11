@@ -1,0 +1,12 @@
+.kopje{
+    font-size: 20px;
+    font-family: 'roboto', 'open sans', arial;
+    display: block;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+    word-spacing: 2px;
+}
+
+.alinea{
+    margin-bottom: 50px;
+}
