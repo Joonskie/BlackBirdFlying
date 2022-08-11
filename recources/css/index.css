@@ -129,6 +129,7 @@ header{
 
 .flexbox-item{
     /* min-width: 300px; */
+    overflow-x: auto;
     min-height: auto;
     flex-basis: 0;
     flex-grow: 1;
