@@ -95,7 +95,7 @@ header{
     }
 
     .flexbox-item{
-        min-width: 300px !important; 
+        min-width: 0 !important; 
     }
 
     .flexbox-item-1{
