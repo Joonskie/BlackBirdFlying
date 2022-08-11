@@ -94,9 +94,9 @@ header{
         margin-bottom: 0;
     }
 
-    /* .flexbox-item{
-        min-width: 500px !important; 
-    } */
+    .flexbox-item{
+        min-width: 300px !important; 
+    }
 
     .flexbox-item-1{
         margin-right: 0 !important;
